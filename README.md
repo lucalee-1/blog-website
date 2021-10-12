@@ -1,5 +1,4 @@
-# blog-website
-A blog website with a functioning compose new posts feature.
+# A blog website with a functioning compose new posts feature. Built using EJS templating engine.
 <p align="center">
   <img src="images\webpage_screenshot.png" />
 </p>
